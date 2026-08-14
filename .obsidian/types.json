@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "integrantes": "multitext",
+    "proyectos": "multitext",
+    "responsable": "multitext",
+    "participantes": "multitext",
+    "fecha_propuesta": "date",
+    "fecha_ingreso": "date",
+    "fecha_finalizacion": "date",
+    "fecha_aval": "date",
+    "fecha_inicio": "date",
+    "fecha": "date"
+  }
+}

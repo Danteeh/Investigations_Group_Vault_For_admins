@@ -1,0 +1,97 @@
+.table-exporter-modal .table-exporter-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.table-exporter-modal .table-exporter-item {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 12px;
+}
+
+.table-exporter-modal .table-exporter-item:hover {
+  background: var(--background-modifier-hover);
+}
+
+.table-exporter-modal .table-exporter-meta {
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+  margin-top: 4px;
+}
+
+.table-exporter-modal .table-exporter-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.table-exporter-render-wrapper {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 24px;
+  background: var(--table-exporter-render-bg);
+  width: max-content;
+  max-width: none;
+  pointer-events: none;
+  z-index: -1;
+  overflow: visible;
+}
+
+.table-exporter-render-table {
+  max-width: none;
+  width: var(--table-exporter-render-width);
+  margin: 0;
+}
+
+.table-exporter-render-clean {
+  background: var(--table-exporter-render-bg);
+  border-collapse: collapse;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: #1f2328;
+}
+
+.table-exporter-render-clean th,
+.table-exporter-render-clean td {
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.4;
+  vertical-align: top;
+  word-break: break-word;
+  white-space: normal;
+  text-align: left !important;
+  text-align-last: auto !important;
+  letter-spacing: normal !important;
+  word-spacing: normal !important;
+  background: #ffffff;
+  color: #1f2328;
+  border-color: #d0d7de;
+  box-shadow: none;
+}
+
+.table-exporter-render-clean th *,
+.table-exporter-render-clean td * {
+  text-align: left !important;
+  text-align-last: auto !important;
+  letter-spacing: normal !important;
+  word-spacing: normal !important;
+}
+
+.table-exporter-render-clean th {
+  font-weight: 700;
+  background: #f6f8fa;
+}
+
+.table-exporter-render-clean code,
+.table-exporter-render-clean mark {
+  font-family: inherit;
+  font-size: inherit;
+  background: transparent;
+  color: inherit;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}

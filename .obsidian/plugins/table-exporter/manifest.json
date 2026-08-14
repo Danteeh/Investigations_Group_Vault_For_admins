@@ -1,0 +1,10 @@
+{
+  "id": "table-exporter",
+  "name": "Table Exporter",
+  "version": "0.3.0",
+  "minAppVersion": "1.9.0",
+  "description": "Export Markdown tables and Bases views to PNG, CSV, Excel, and PDF — including virtualized Bases tables.",
+  "author": "shaw",
+  "authorUrl": "https://github.com/wikty",
+  "isDesktopOnly": false
+}

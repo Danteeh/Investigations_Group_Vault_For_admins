@@ -1,0 +1,14 @@
+# Configuración interna de Obsidian y cachés
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/backups/
+.obsidian/cache/
+
+# Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Notas temporales o de sincronización conflictiva
+*.sync-conflict.*
+
