@@ -26,18 +26,6 @@ SORT nombre ASC
 ```
 
 
-### Ideas en evaluación
-
-```dataview
-TABLE WITHOUT ID
-length(rows) AS "Total"
-FROM "02 - Ideas"
-WHERE tipo = "idea"
-AND estado != "Avalada"
-AND estado != "No avalada"
-AND estado != "Archivada"
-GROUP BY true
-```
 
 ### Proyectos activos
 
@@ -85,6 +73,21 @@ WHERE tipo = "proyecto"
 AND estado = "Finalizado"
 SORT fecha_inicio DESC
 ```
+
+### Ideas en evaluación
+
+```dataview
+TABLE WITHOUT ID
+length(rows) AS "Total"
+FROM "02 - Ideas"
+WHERE tipo = "idea"
+AND estado != "Avalada"
+AND estado != "No avalada"
+AND estado != "Archivada"
+GROUP BY true
+```
+
+
 ## Ideas en evaluación
 
 ```dataview

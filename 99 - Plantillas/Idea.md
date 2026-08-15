@@ -6,6 +6,7 @@ estado: Propuesta
 fecha_propuesta:
 integrantes:
 linea_investigacion:
+Vinculacion:
 ---
 
 # {{titulo}}

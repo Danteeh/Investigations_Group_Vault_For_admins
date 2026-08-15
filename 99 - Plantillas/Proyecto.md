@@ -11,6 +11,7 @@ linea_investigacion:
 fecha_inicio:
 fecha_finalizacion:
 idea_origen:
+Grupo Asociado:
 ---
 
 # {{nombre_proyecto}}
