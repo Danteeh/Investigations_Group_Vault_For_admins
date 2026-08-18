@@ -1,14 +1,14 @@
 ---
 tipo: integrante
-id: "20211020073"
-nombre: HELBERTH ALEJANDRO GARCIA MELO
-correo: hagarciam@udistrital.edu.co
+id: "1034397015"
+nombre: SANTIAGO SANCHEZ MOYA
+correo: sansanchezm@udistrital.edu.co
 programa: Ingeniera de sistemas
-semestre_actual: "6"
-fecha_ingreso: 2026-08-14
+semestre_actual: "10"
+fecha_ingreso: 2026-08-18
 estado: Activo
 ---
- 
+
 ## Participación en el semillero
 
 ### Ideas propuestas

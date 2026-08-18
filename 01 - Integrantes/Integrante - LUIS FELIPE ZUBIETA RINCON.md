@@ -1,15 +1,16 @@
 ---
 tipo: integrante
-id: "20211020073"
-nombre: HELBERTH ALEJANDRO GARCIA MELO
-correo: hagarciam@udistrital.edu.co
+id: 20231020XXX
+nombre: LUIS FELIPE ZUIBIETA RINCON
+correo: lfzubietar@udistrital.edu.co
 programa: Ingeniera de sistemas
 semestre_actual: "6"
-fecha_ingreso: 2026-08-14
+fecha_ingreso: 2026-08-18
 estado: Activo
 ---
- 
 ## Participación en el semillero
+
+Requiere apoyo.
 
 ### Ideas propuestas
 

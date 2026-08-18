@@ -2,5 +2,6 @@
   "templater-obsidian",
   "dataview",
   "spreadsheet-table",
-  "table-exporter"
+  "table-exporter",
+  "obsidian-git"
 ]

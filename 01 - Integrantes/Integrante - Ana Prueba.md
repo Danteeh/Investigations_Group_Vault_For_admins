@@ -6,7 +6,7 @@ correo: ana@gmail.com
 programa: Ingeniera de sistemas
 semestre_actual: "5"
 fecha_ingreso: 2026-08-15
-estado: Activo
+estado: Inactivo
 ---
 ## Participación en el semillero
 
