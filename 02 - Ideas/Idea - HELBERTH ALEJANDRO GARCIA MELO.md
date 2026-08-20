@@ -7,7 +7,7 @@ fecha_propuesta: 2026-08-14
 integrantes:
   - "[[Integrante - HELBERTH ALEJANDRO GARCIA MELO]]"
 linea_investigacion: Gamificación
-Vinculacion: Multimedia Interactiva
+Vinculacion: Multimedia Interactiva - Grupo de investigación
 ---
 
 # Gamificación, interacción persona-computador y tecnologías multimedia aplicadas a la educación.

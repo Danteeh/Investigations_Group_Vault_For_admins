@@ -7,7 +7,7 @@ fecha_propuesta: 2026-08-18
 integrantes:
   - "[[Integrante - DANIEL PRESIGA PRESIGA]]"
 linea_investigacion: Gamificación
-Vinculacion: Multimedia Interactiva
+Vinculacion: Multimedia Interactiva - Grupo de investigación
 ---
 
 # Evaluación de estrategias basadas en inteligencia artificial para la generación automática de conjuntos de términos semánticamente relacionados aplicados a la creación de recursos educativos.

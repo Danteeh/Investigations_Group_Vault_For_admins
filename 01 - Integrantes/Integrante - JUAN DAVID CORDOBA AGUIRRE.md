@@ -1,17 +1,15 @@
 ---
 tipo: integrante
-id: 20231020XXX
-nombre: DANIEL STEVEN BULLA LOPEZ
-correo: debullal@udistrital.edu.co
+id: "20211020097"
+nombre: JUAN DAVID CORDOBA AGUIRRE
+correo: jdcordobaa@udistrital.edu.co
 programa: Ingeniera de sistemas
-semestre_actual: "3"
-fecha_ingreso: 2026-08-14
+semestre_actual: "9"
+fecha_ingreso: 2026-08-20
 estado: Activo
 ---
 ## Participación en el semillero
 
-
-Requiere apoyo
 ### Ideas propuestas
 
 ```dataview

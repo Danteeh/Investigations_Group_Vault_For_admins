@@ -1,17 +1,15 @@
 ---
 tipo: integrante
-id: 20231020XXX
-nombre: DANIEL STEVEN BULLA LOPEZ
-correo: debullal@udistrital.edu.co
+id: "20221020140"
+nombre: CARMEN SOFIA FLOREZ JUAJIBIOY
+correo: csflorezj@udistrital.edu.co
 programa: Ingeniera de sistemas
-semestre_actual: "3"
-fecha_ingreso: 2026-08-14
+semestre_actual: "8"
+fecha_ingreso: 2026-08-18
 estado: Activo
 ---
 ## Participación en el semillero
 
-
-Requiere apoyo
 ### Ideas propuestas
 
 ```dataview

@@ -8,7 +8,7 @@ integrantes:
   - "[[Integrante - Yader Ibraldo Quiroga]]"
   - "[[Integrante - JHONATHAN DAVID DE LA TORRE GARCIA]]"
 linea_investigacion: Desarrollo de Videojuegos
-Vinculacion: Multimedia Interactiva
+Vinculacion: Multimedia Interactiva - Grupo de investigación
 ---
 
 # Enseñanza de programación a personas nuevas mediante juego en 2D.

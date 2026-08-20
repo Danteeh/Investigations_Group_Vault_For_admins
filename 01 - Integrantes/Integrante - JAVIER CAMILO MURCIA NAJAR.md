@@ -1,17 +1,16 @@
 ---
 tipo: integrante
-id: 20231020XXX
-nombre: DANIEL STEVEN BULLA LOPEZ
-correo: debullal@udistrital.edu.co
+id: "20211020106"
+nombre: JAVIER CAMILO MURCIA NAJAR
+correo:
 programa: Ingeniera de sistemas
-semestre_actual: "3"
-fecha_ingreso: 2026-08-14
+semestre_actual: "8"
+fecha_ingreso: 2026-08-19
 estado: Activo
 ---
+
 ## Participación en el semillero
 
-
-Requiere apoyo
 ### Ideas propuestas
 
 ```dataview

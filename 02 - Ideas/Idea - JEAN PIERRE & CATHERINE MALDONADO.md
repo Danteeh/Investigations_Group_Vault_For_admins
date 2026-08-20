@@ -1,24 +1,16 @@
 ---
 tipo: idea
 id: Idea-Tesis-Jean-Catherine-001
-titulo: Evaluación del impacto de ataques DoS en Redes Definidas por Software (SDN) mediante aprendizaje automático en entornos emulados
+titulo: Evaluación cuantitativa del impacto de ataques de denegación de servicio TCP SYN flood, UDP flood e ICMP flood sobre el desempeño de redes definidas por software mediante modelos de aprendizaje automático
 estado: Propuesta
 fecha_propuesta: 2026-08-14
 integrantes:
   - "[[Integrante  - JEAN PIERRE MORA CEPEDA]]"
   - "[[Integrante - CATHERINE MELISA MALDONADO MELENGE]]"
 linea_investigacion: Redes de comunicación
-Vinculacion: GIIRA
+Vinculacion: GIIRA - Proyecto de grado
 ---
-
-# Evaluación del impacto de ataques DoS en Redes Definidas por Software (SDN) mediante aprendizaje automático en entornos emulados.
-
-
-## Resumen de la idea
-
-## Problema identificado
-
-## Objetivo preliminar
+![[Idea - JEAN PIERRE MORA Y CATHERINE.pdf]]
 
 ## Evaluación
 

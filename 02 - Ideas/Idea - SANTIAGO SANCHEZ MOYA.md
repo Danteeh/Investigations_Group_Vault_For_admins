@@ -7,7 +7,7 @@ fecha_propuesta: 2026-08-18
 integrantes:
   - "[[Integrante - SANTIAGO SANCHEZ MOYA]]"
 linea_investigacion: Ciencia de datos
-Vinculacion: GIIRA
+Vinculacion: GIIRA - Grupo de investigación
 ---
 
 # {{titulo}}

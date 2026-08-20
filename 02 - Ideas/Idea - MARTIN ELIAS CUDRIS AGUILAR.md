@@ -7,7 +7,7 @@ fecha_propuesta: 2026-08-14
 integrantes:
   - "[[Integrante - MARTIN ELIAS CUDRIS AGUILAR]]"
 linea_investigacion: Redes, videojuegos
-Vinculacion: Multimedia Interactiva
+Vinculacion: Multimedia Interactiva - Grupo de investigación
 ---
 
 # alternativa a Cisco Packet Tracer

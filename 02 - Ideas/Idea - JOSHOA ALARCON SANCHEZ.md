@@ -7,7 +7,7 @@ fecha_propuesta: 2026-08-14
 integrantes:
   - "[[Integrante - JOSHOA ALARCON SANCHEZ]]"
 linea_investigacion: AR-Sandbox
-Vinculacion: Multimedia Interactiva
+Vinculacion: Multimedia Interactiva - Grupo de investigación
 ---
 
 # AR-Sandbox

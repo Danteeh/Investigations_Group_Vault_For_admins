@@ -1,12 +1,12 @@
 ---
 tipo: integrante
-id: 20231020XXX
-nombre: Ana PRUEBA
-correo: ana@gmail.com
+id: "20221020146"
+nombre: LAURA NATALIA PARDO CASTILLO
+correo:
 programa: Ingeniera de sistemas
-semestre_actual: "5"
-fecha_ingreso: 2026-08-15
-estado: Inactivo
+semestre_actual: "8"
+fecha_ingreso: 2026-08-18
+estado: Activo
 ---
 ## Participación en el semillero
 

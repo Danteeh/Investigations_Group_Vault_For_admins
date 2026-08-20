@@ -7,7 +7,7 @@ fecha_propuesta: 2026-08-14
 integrantes:
   - "[[Integrante - JOHAN SEBASTIAN GUTIERREZ PEREZ]]"
 linea_investigacion: Gamificación
-Vinculacion: Multimedia Interactiva
+Vinculacion: Multimedia Interactiva - Grupo de investigación
 ---
 
 # Simulador Gamificado de ciberseguridad
