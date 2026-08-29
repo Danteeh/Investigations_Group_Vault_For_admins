@@ -2,7 +2,7 @@
 tipo: idea
 id: idea-SANTIAGO SANCHEZ MOYA
 titulo: Sistma de monitero
-estado: Propuesta
+estado: Activo
 fecha_propuesta: 2026-08-18
 integrantes:
   - "[[Integrante - SANTIAGO SANCHEZ MOYA]]"
@@ -10,34 +10,18 @@ linea_investigacion: Ciencia de datos
 Vinculacion: GIIRA - Grupo de investigación
 ---
 
-# {{titulo}}
+# Sistema monitoreo de ruido
 
 ## Resumen de la idea
 
-Requiere asignación de la misma.
+El estudiante solicito asignación del tema.
 
-## Problema identificado
-
-## Objetivo preliminar
 
 ## Evaluación
 
 ### Revisión inicial
 
-### Presentación al semillero
-
-### Correcciones
-
-### Evaluación final
-
-## Observaciones
-
-## Decisión
-
-### Resultado
-
-### Justificación
-
+El estudiante continuara lo trabajado en sistema de ruido y sistema de datos abierto.
 ## Reuniones relacionadas
+[[Reunión 25-08-2026]]
 
-## Observaciones adicionales

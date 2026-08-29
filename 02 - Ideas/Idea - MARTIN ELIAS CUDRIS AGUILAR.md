@@ -25,21 +25,17 @@ Desarrollo de aplicativo, para la creación de simulaciones de red.
 ## Evaluación
 
 ### Revisión inicial
-
+El proyecto tiene gran potencial relacionado a Lab de redes virtual
 ### Presentación al semillero
+Se realizo mediante correo electrónico
 
-### Correcciones
 
 ### Evaluación final
+Se toma la idea y avanza como proyecto
 
 ## Observaciones
-
-## Decisión
-
-### Resultado
-
-### Justificación
-
+No presenta
 ## Reuniones relacionadas
 
+[[Reunión 25-08-2026]]
 ## Observaciones adicionales

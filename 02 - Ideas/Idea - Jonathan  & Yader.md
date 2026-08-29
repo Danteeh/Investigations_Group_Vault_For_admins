@@ -19,27 +19,17 @@ Nuestra propuesta radicara en construir un videojuego que permita a las personas
 ## Problema identificado
 
 Educación y aprendizaje en áreas de Tech
-
-## Objetivo preliminar
-
-## Evaluación
-
-### Revisión inicial
-
 ### Presentación al semillero
 
+Mediante Correo Electronico
 ### Correcciones
 
+No presenta
 ### Evaluación final
-
+La idea se toma y avanza como proyecto
 ## Observaciones
 
-## Decisión
-
-### Resultado
-
-### Justificación
-
+La idea se toma en multimedia pero es apoyada por el profesor Carlos Montenegro
 ## Reuniones relacionadas
 
-## Observaciones adicionales
+[[Reunión 25-08-2026]]

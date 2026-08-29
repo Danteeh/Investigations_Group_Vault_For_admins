@@ -17,26 +17,17 @@ Principalmente por los aspectos de reconocimiento de imágenes por computadora, 
 ## Problema identificado
 Reconocimiento de imágenes.
 
-## Objetivo preliminar
-
-## Evaluación
-
 ### Revisión inicial
-
+La idea evoluciona  a mantener la propuesta de la AR sandbox y su manejo de terapias
 ### Presentación al semillero
-
+Se realizo mediante correo electrónico
 ### Correcciones
 
+La idea se toma pero con la disposición del estudiante a darle el enfoque mediante las terapias ya manejadas en la AR sandbox
+
 ### Evaluación final
-
+La idea se toma y evoluciona a proeycto
 ## Observaciones
-
-## Decisión
-
-### Resultado
-
-### Justificación
-
+No presenta
 ## Reuniones relacionadas
-
-## Observaciones adicionales
+[[Reunión 25-08-2026]]

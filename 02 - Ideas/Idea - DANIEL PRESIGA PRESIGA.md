@@ -2,7 +2,7 @@
 tipo: idea
 id: Idea - Daniel Presiga
 titulo: Evaluación de estrategias basadas en inteligencia artificial para la generación automática de conjuntos de términos semánticamente relacionados aplicados a la creación de recursos educativos.
-estado: Propuesta
+estado: Activo
 fecha_propuesta: 2026-08-18
 integrantes:
   - "[[Integrante - DANIEL PRESIGA PRESIGA]]"
@@ -29,21 +29,15 @@ Investigar y evaluar la capacidad de estrategias basadas en inteligencia artific
 ## Evaluación
 
 ### Revisión inicial
-
+Excelente Idea
 ### Presentación al semillero
-
+Mediante Correo electronico
 ### Correcciones
-
+No presenta
 ### Evaluación final
-
+La idea se toma y avanza como proyecto
 ## Observaciones
-
-## Decisión
-
-### Resultado
-
-### Justificación
-
+Ninguna
 ## Reuniones relacionadas
 
 ## Observaciones adicionales

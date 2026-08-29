@@ -36,21 +36,18 @@ Para ello, se podrían diseñar diferentes escenarios o tareas topográficas y o
 ## Evaluación
 
 ### Revisión inicial
+Idea con mucho alcance, bastante documentación y bastante tiempo de trabajo
 
 ### Presentación al semillero
 
+Se realizo envió de documento PDF adjuntado arriba 
 ### Correcciones
 
+No presenta
 ### Evaluación final
-
+La idea se toma y avanza como proyecto
 ## Observaciones
 
-## Decisión
-
-### Resultado
-
-### Justificación
-
+No presenta.
 ## Reuniones relacionadas
-
-## Observaciones adicionales
+[[Reunión 25-08-2026]]

@@ -2,7 +2,7 @@
 tipo: idea
 id: Idea-HELBERTH ALEJANDRO GARCIA MELO
 titulo: Gamificación, interacción persona-computador y tecnologías multimedia aplicadas a la educación.
-estado: Propuesta
+estado: Activo
 fecha_propuesta: 2026-08-14
 integrantes:
   - "[[Integrante - HELBERTH ALEJANDRO GARCIA MELO]]"
@@ -18,26 +18,14 @@ Desarrollar un prototipo gamificado para aprender una segunda lengua mediante es
 ## Problema identificado
 
 Las metodologías tradicionales para aprender una segunda lengua pueden ofrecer pocas oportunidades para practicar situaciones comunicativas reales de forma interactiva, dinámica y contextualizada. Esto limita la participación activa del estudiante y la aplicación práctica del idioma en escenarios cotidianos.
-## Objetivo preliminar
-
-## Evaluación
-
-### Revisión inicial
-
-### Presentación al semillero
-
-### Correcciones
 
 ### Evaluación final
 
+Se toma la idea y avanza como proyecto
 ## Observaciones
 
-## Decisión
+No presenta
 
-### Resultado
+## Reunión asociado
 
-### Justificación
-
-## Reuniones relacionadas
-
-## Observaciones adicionales
+[[Reunión 25-08-2026]]

@@ -1,29 +1,31 @@
 ---
 tipo: proyecto
-id:
-nombre_proyecto:
-semestre:
+id: PR_04_2026
+nombre_proyecto: Escenario gamificado de ciberseguridad
+semestre: 2026-3
 estado: Activo
-fecha_aval:
+fecha_aval: 2026-08-28
 integrantes:
-director:
-linea_investigacion:
-fecha_inicio:
+  - "[[Integrante - JOHAN SEBASTIAN GUTIERREZ PEREZ]]"
+director: Alonso Gaona
+linea_investigacion: Ciberseguridad
+fecha_inicio: 2026-08-28
 fecha_finalizacion:
-idea_origen:
-Grupo Asociado:
+idea_origen: "[[Idea - JOHAN SEBASTIAN GUTIERREZ PEREZ]]"
+Grupo Asociado: Multimedia Interactiva
 ---
 
-# {{nombre_proyecto}}
+# Escenario Gamificado de Ciberseguridad
 
 ## Información general
 
+un escenario interactivo donde el usuario enfrenta situaciones de phishing e ingeniería social y debe decidir bajo tiempo limitado, siguiendo la mecánica de gamificación que ya maneja el grupo.  Los datos de esas decisiones (aciertos, tiempos de respuesta) alimentarían un dashboard de analítica visual que caracterice patrones de comportamiento frente a amenazas, conectando así con la línea de Redes y Seguridad Informática de GIIRA.
+
 ### Problema
+Aprendizaje de procesos de ciberseguridad mediante Gamificación
 
 ### Objetivo general
-
-### Objetivos específicos
-
+Realización de entorno de ciberseguridad
 ### Metodología
 
 ### Integrantes

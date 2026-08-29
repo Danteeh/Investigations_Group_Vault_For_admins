@@ -32,18 +32,11 @@ Realización de entorno de ciberseguridad
 
 Me gustaría desarrollar este proyecto de forma integrada, cursando simultáneamente el Grupo de Trabajo y el Grupo de Investigación bajo la misma propuesta, con el componente inmersivo y el analítico como un solo proceso.  Agradecería mucho su orientación sobre el alcance y la viabilidad de abordarla desde ambos espacios
 
-### Correcciones
-
 ### Evaluación final
 
+La idea se toma y avanza como proyecto
 ## Observaciones
-
-## Decisión
-
-### Resultado
-
-### Justificación
-
+No presenta
 ## Reuniones relacionadas
 
-## Observaciones adicionales
+[[Reunión 25-08-2026]]
