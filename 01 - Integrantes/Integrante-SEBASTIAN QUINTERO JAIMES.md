@@ -1,13 +1,14 @@
 ---
 tipo: integrante
-id: "20202020041"
-nombre: PRUEBA
-correo: afcarvajalf@udistrital.edu.co
+id: "20221020122"
+nombre: JULIAN CAMILO ESPINOSA MORALES
+correo: squinteroj@udistrital.edu.co
 programa: Ingeniera de sistemas
-semestre_actual: "8"
-fecha_ingreso: 2026-08-20
+semestre_actual: "10"
+fecha_ingreso: 2026-09-25
 estado: Activo
 ---
+ 
 ## Participación en el semillero
 
 ### Ideas propuestas

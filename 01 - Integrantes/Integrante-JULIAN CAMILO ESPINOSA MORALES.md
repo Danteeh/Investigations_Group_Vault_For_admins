@@ -1,16 +1,15 @@
 ---
 tipo: integrante
-id: "20252020022"
-nombre: LUIS FELIPE ZUIBIETA RINCON
-correo: lfzubietar@udistrital.edu.co
+id: "20191020073"
+nombre: JULIAN CAMILO ESPINOSA MORALES
+correo: jucespinosam@udistrital.edu.co
 programa: Ingeniera de sistemas
-semestre_actual: "6"
-fecha_ingreso: 2026-08-18
+semestre_actual: "8"
+fecha_ingreso: 2026-09-25
 estado: Activo
 ---
-## Participación en el semillero
 
-Requiere apoyo.
+## Participación en el semillero
 
 ### Ideas propuestas
 
