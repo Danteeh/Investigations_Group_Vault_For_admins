@@ -33,4 +33,4 @@ La idea se toma y avanza como proyecto
 La idea se toma en multimedia pero es apoyada por el profesor Carlos Montenegro
 ## Reuniones relacionadas
 
-[[Reunión 25-08-2026]]
+[[Reunión 25-8-2026]]

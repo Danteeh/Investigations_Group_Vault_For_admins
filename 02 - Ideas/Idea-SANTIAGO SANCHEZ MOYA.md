@@ -23,5 +23,5 @@ El estudiante solicito asignación del tema.
 
 El estudiante continuara lo trabajado en sistema de ruido y sistema de datos abierto.
 ## Reuniones relacionadas
-[[Reunión 25-08-2026]]
+[[Reunión 25-8-2026]]
 

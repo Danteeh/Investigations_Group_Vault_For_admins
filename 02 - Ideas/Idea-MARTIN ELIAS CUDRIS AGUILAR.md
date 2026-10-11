@@ -37,5 +37,5 @@ Se toma la idea y avanza como proyecto
 No presenta
 ## Reuniones relacionadas
 
-[[Reunión 25-08-2026]]
+[[Reunión 25-8-2026]]
 ## Observaciones adicionales

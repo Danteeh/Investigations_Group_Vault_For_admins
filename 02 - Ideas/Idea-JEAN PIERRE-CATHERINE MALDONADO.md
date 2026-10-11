@@ -10,7 +10,7 @@ integrantes:
 linea_investigacion: Redes de comunicación
 Vinculacion: GIIRA - Proyecto de grado
 ---
-![[Idea-JEAN PIERRE MORA - CATHERINE.pdf]]
+![[Idea-JEAN PIERRE-CATHERINE MALDONADO.pdf]]
 
 ### Presentación al semillero
 Se realizo mediante correo electronico
@@ -21,4 +21,4 @@ Se toma la idea y avanza como proyecto
 ## Observaciones
 No presenta
 ## Reuniones relacionadas
-[[Reunión 25-08-2026]]
+[[Reunión 25-8-2026]]

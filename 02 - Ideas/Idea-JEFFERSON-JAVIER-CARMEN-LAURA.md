@@ -33,4 +33,4 @@ No presenta
 ## Decisión
 Se cambia el estado de la idea a Activo
 ## Reuniones relacionadas
-[[Reunión 25-08-2026]]
+[[Reunión 25-8-2026]]

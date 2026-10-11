@@ -3,5 +3,6 @@
   "dataview",
   "spreadsheet-table",
   "table-exporter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc"
 ]
