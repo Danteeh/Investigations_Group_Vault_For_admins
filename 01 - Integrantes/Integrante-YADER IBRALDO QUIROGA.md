@@ -7,6 +7,7 @@ programa: Ingeniera de sistemas
 semestre_actual: "8"
 fecha_ingreso: 2026-08-14
 estado: Activo
+Vinculacion: GIIRA - Grupo de investigación II
 ---
 ## Participación en el semillero
 

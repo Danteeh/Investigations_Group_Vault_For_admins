@@ -7,6 +7,7 @@ programa: Ingeniera de sistemas
 semestre_actual: "6"
 fecha_ingreso: 2026-08-14
 estado: Activo
+Vinculacion:
 ---
 Busca grupo o proyecto Relacionado a gamificacion o story telling de multimedia
 ## Participación en el semillero

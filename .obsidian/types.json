@@ -12,6 +12,7 @@
     "fecha_finalizacion": "date",
     "fecha_aval": "date",
     "fecha_inicio": "date",
-    "fecha": "date"
+    "fecha": "date",
+    "Vinculacion": "text"
   }
 }

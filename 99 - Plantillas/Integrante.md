@@ -7,6 +7,7 @@ programa:
 semestre_actual:
 fecha_ingreso:
 estado: Activo
+Vinculacion:
 ---
 ## Participación en el semillero
 

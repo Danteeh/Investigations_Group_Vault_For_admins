@@ -7,6 +7,7 @@ programa: Ingeniera de sistemas
 semestre_actual: "8"
 fecha_ingreso: 2026-08-19
 estado: Activo
+Vinculacion:
 ---
 
 ## Participación en el semillero
